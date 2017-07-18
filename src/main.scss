@@ -1,0 +1,303 @@
+@import url(https://fonts.googleapis.com/css?family=Changa+One);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+.article-main {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.top-background {
+  background: linear-gradient(to right, #52c277, #afe690);
+  height: 450px;
+}
+
+.navbar-custom {
+  padding: 0px 50px;
+  background-color: initial;
+  border: initial;
+}
+
+.navbar-default .navbar-brand-logo {
+  font-family: changa one;
+  color: #0b3851;
+  font-size: 24px;
+  padding-top: 13px;
+}
+
+.navbar-default .navbar-nav li a {
+  color: #45656c;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.btn-sign-up {
+  padding: 1px 6px;
+  background: #a4e290;
+  margin-top: 13px;
+  border-radius: 25px;
+  border-color: #ababab;
+  color: #45656c;
+}
+
+.title {
+  color: #0b3851;
+  margin-top: 30px;
+  text-align: center;
+  font-size: 34px;
+}
+
+.sub-title {
+  margin-bottom: 60px;
+  color: #fff;
+  text-align: center;
+  font-size: 34px;
+}
+
+.column-create-account {
+  color: #035162;
+  background-color: #ffffff;
+  width: 50%;
+  box-shadow: 0px 20px 50px 0px rgba(210, 210, 210, 0.5);
+  margin-bottom: 70px;
+  text-align: center;
+  float: left;
+  position: relative;
+}
+
+.column-enterprice {
+  color: #81dbf9;
+  background-color: #0b3851;
+  width: 50%;
+  box-shadow: 0px 20px 50px 0px rgba(210, 210, 210, 0.5);
+  margin-top: 60px;
+  text-align: center;
+  float: left;
+  position: relative;
+}
+
+.head-column {
+  padding-top: 35px;
+  padding-bottom: 15px;
+  font-size: 18px;
+  text-transform: uppercase;
+  border-bottom: 1px solid rgba(104, 134, 150, 0.24);
+}
+
+.head-column-create-account {
+  color: #217a8d;
+}
+
+.price-create-account {
+  font-size: 62px;
+  font-family: Lato;
+}
+
+.plus-cent {
+  font-size: 24px;
+}
+
+.plus-cent-up {
+  top: -0.5em;
+}
+
+.article-column-create-account {
+  font-size: 18px;
+  margin-bottom: 40px;
+  color: #7798a9;
+}
+
+.ul-create-account-column {
+  list-style: none;
+  margin-left: 10px;
+  margin-bottom: 60px;
+}
+
+.li-create-account-column {
+  text-align: left;
+  font-size: 16px;
+  margin: 15px 0px;
+}
+
+.img-icon {
+  margin-right: 5px;
+}
+
+.article-column-enterprice {
+  font-size: 16px;
+  margin: 0px 30px 25px;
+}
+
+.td-column-enterprice {
+  border: 1px solid #12425c;
+  padding: 15px;
+  font-size: 17px;
+  color: #d6f5ff;
+}
+
+.table-column-enterprice {
+  margin: auto;
+  margin-bottom: 40px;
+}
+
+.btn-column-create-account {
+  width: 100%;
+  height: 70px;
+  border-radius: 0px;
+  background-color: #f1f6f8;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+.btn-column-create-account:hover {
+  background-color: #ebf1f4;
+  color: #035162;
+}
+
+.btn-column-create-account:focus {
+  background-color: #ebf1f4;
+  color: #035162;
+  border: 0px;
+  border-style: none;
+}
+
+.btn-column-enterprice {
+  width: 100%;
+  height: 70px;
+  border-radius: 0px;
+  background-color: #082a3c;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+.btn-column-enterprice:hover {
+  background-color: #082536;
+  color: #81dbf9;
+}
+
+.btn-column-enterprice:focus {
+  background-color: #082536;
+  color: #81dbf9;
+}
+
+.article-transfers-with-logo {
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 70px;
+}
+
+.img-transfers {
+  margin-right: 30px;
+  margin-bottom: 50px;
+}
+
+.article-transfers {
+  font-size: 16px;
+  width: 74%;
+  display: inline-block;
+}
+
+.article-transfers-description {
+  color: #7798a9;
+}
+
+.background-light-green-left {
+  background-color: #72cd95;
+  height: 160px;
+  width: 25%;
+  position: absolute;
+  top: 130px;
+  left: 0px;
+  transform: skewY(170deg);
+}
+
+.background-wavy-lines {
+  background-color: #43c07d;
+  background-image: url(http://i11.pixs.ru/storage/7/7/1/background_9652669_22984771.png);
+  height: 150px;
+  width: 25%;
+  position: absolute;
+  top: 270px;
+  left: 0px;
+  transform: skewY(170deg);
+}
+
+.background-green {
+  background-color: #52c277;
+  height: 148px;
+  width: 25%;
+  position: absolute;
+  top: 417px;
+  left: 0px;
+  transform: skewY(170deg);
+}
+
+.background-light-yellow {
+  background-color: #d0f1b2;
+  height: 162px;
+  width: 25%;
+  position: absolute;
+  top: 538px;
+  left: 0px;
+  transform: skewY(170deg);
+}
+
+.background-yellow {
+  background-color: #d0f1b2;
+  height: 150px;
+  width: 25%;
+  position: absolute;
+  top: 149px;
+  right: 0px;
+  transform: skewY(170deg);
+}
+
+.background-light-green-right {
+  background-color: #94dbaf;
+  height: 150px;
+  width: 25%;
+  position: absolute;
+  top: 290px;
+  right: 0px;
+  transform: skewY(170deg);
+}
+
+@media (max-width: 900px) {
+  .navbar-custom {
+    padding: 0px 0px;
+  }
+}
+
+@media (max-width: 768px) {
+  .column-create-account {
+    width: 100%;
+    margin-left: 0px;
+    margin-bottom: 10px;
+  }
+  .column-enterprice {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 70px;
+  }
+  .article-main {
+    padding: 0px;
+  }
+  .navbar-custom {
+    margin: 0px 40px;
+  }
+  .top-background {
+    height: 550px;
+  }
+
+  .columns-all-width {
+    padding: 0px;
+  }
+  .page-fix-scroll {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .article-transfers-with-logo {
+    width: 100%;
+    padding-left: 30px;
+  }
+}
